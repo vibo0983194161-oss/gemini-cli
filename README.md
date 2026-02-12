@@ -188,7 +188,7 @@ gemini
 
 ```bash
 # Get your key from https://aistudio.google.com/apikey
-export GEMINI_API_KEY="YOUR_API_KEY"
+export GEMINI_API_KEY="AIzaSyBt-GU0jkJalICr_GuZgLCon-Hy3-Yh1I0"
 gemini
 ```
 
